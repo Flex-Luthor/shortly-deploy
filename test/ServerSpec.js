@@ -96,7 +96,7 @@ var Link = require('../app/models/link');
         link = new Link({
           url: 'http://www.roflzoo.com/',
           title: 'Rofl Zoo - Daily funny animal pictures',
-          base_url: 'http://127.0.0.1:4568',
+          base_url: 'http://127.0.0.1:4568npm install grunt-contrib-jshint --save-dev',
           visits: 0
         })
 
